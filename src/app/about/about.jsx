@@ -29,11 +29,11 @@ Todas as outras letras não tem equivalente
   check_phonetic = function(content) {
   	ma = content.toLocaleLowerCase();
   	content_string = "";
-    score1 = 1;
-    score2 = 1;
-    score3 = 1;
-    score4 = 1;
-    score5 = 1;
+    score1 = 0;
+    score2 = 0;
+    score3 = 0;
+    score4 = 0;
+    score5 = 0;
     for (var i = 0; i <= content.length; i++) {
       discarts = ["a","e","i","h","o","u","w","y"];
       equivalents1 = ["a", "e", "i", "o", "u"];
