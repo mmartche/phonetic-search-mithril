@@ -1,10 +1,10 @@
-# Teste
+# Phonetic Search
 
 > Project phonetic-search-mithril with [Mithril](http://lhorie.github.io/mithril/)
 
 ## Quick start
 
-Tenha certeza que já ter instalado `node` e `npm`. Depois digite os seguintes comandos no terminal:
+Make sure you have already installed `node` and `npm`. Then type the following commands in your terminal.
 
 ```
 npm install -g bower gulp http-server
@@ -18,17 +18,17 @@ gulp compile
 
 http-server build/public
 ```
-> Alguns sistemas operacionais podem ter restrições com permissões, para resolver isto basta ter direitos administrativos e incluir o comando `sudo` antes da instalação.
+> Some operating systems may have restrictions with permissions, to resolve this, just have the administrative rights and include the `sudo` command before installation.
 
-> ex: `sudo npm install -g bower gulp http-server`
-ex2: `sudo npm install`
-ex3: `...`
+> eg: `sudo npm install -g bower gulp http-server`
+eg2: `sudo npm install`
+eg3: `...`
 
-Após executar os comandos acima, enquanto exibe a mensagem de que o servidor virtual esta sendo executado, acesse seu browser com a url: 
+After executing the above commands, while viewing the message about the virtual server is running, visit your browser with the following URL:
 > http://localhost:8080
 
 
-## Características do App
+## App Features
 
 * Gulpfile
 * Bower
@@ -36,9 +36,9 @@ Após executar os comandos acima, enquanto exibe a mensagem de que o servidor vi
 * Mithril
 * [JSX](http://lhorie.github.io/mithril/tools.html)
 * [INCLUDE()](https://github.com/ng-vu/gulp-include-js) JavaScript files
-* Módulos do Client side encapsulados em CommonJs
-* Scripts e Estilos minificados para produção
+* Client-side Modules side encapsulated with CommonJs
+* Scripts and Styles reduzed for production
 
 ##Demo
 
-[clique aqui](http://phonetic-search.martche.ca/#/) para ver funcionando
+[click here](http://phonetic.martche.ca/) to check this project working!
