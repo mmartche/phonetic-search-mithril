@@ -1,6 +1,6 @@
 # Teste
 
-> Project phonetic-search using [Mithril](http://lhorie.github.io/mithril/)
+> Project phonetic-search-mithril with [Mithril](http://lhorie.github.io/mithril/)
 
 ## Quick start
 
@@ -9,8 +9,8 @@ Tenha certeza que já ter instalado `node` e `npm`. Depois digite os seguintes c
 ```
 npm install -g bower gulp http-server
 
-git clone https://github.com/mmartche/mithril_cv.git
-cd mithril_cv
+git clone https://github.com/mmartche/phonetic-search-mithril.git
+cd phonetic-search-mithril
 
 npm install
 bower install
